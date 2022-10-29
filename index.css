@@ -1,0 +1,58 @@
+/* .center{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   
+}
+.nums{
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    position: relative;
+    left: 84px;
+}
+#num1{
+    padding-right: 30px;
+}
+.calculator{
+    background-color: rgb(133, 207, 253);
+    border: 1px solid black;
+    width :auto;
+    padding: 30px;
+    color: black;
+}
+.btn{
+    background-color: rgb(1, 34, 88);
+    color: white;
+    border-style: none;
+    border-radius: 8px;
+} */
+.blackjack{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url("bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50vh;
+   
+}
+h1 {
+    color:goldenrod;
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+.btn{
+    color: #016f32;
+    background-color: goldenrod;
+    width: 150px;
+    font-weight: bold;
+    border-style:none;
+    border-radius: 6px;
+    margin: 5px;
+}
